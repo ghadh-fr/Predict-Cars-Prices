@@ -1,0 +1,687 @@
+CAR_NAME,MODEL,NO_OF_YEARS,DEALER,MILES_DRIVEN,RATE,NO_OF_REVIEWS,PRICE
+Audi A4 2.0T Premium Plus,2018,3,The Audi Exchange,43152,4.8,654,29587
+Audi Q5 3.0T Premium Plus,2016,5,Fletcher Jones Audi,32666,4.8,1048,31881
+Audi S5 3.0 Prestige quattro,2012,9,Volkswagen of Downtown Chicago,28552,4.6,1442,29000
+Audi Q3 45 S line Premium,2019,0,Volkswagen of Downtown Chicago,16027,4.6,1442,39000
+Audi Q5 2.0T Premium Plus,2014,7,Toyota of Lincoln Park,64698,4.2,216,20900
+Audi Q7 3.0T Prestige,2018,3,Perillo BMW,38653,4.4,576,47998
+Audi Q7 55 Prestige,2019,1,Fletcher Jones Audi,16419,4.8,1048,52999
+Audi A4 2.0T Premium,2018,3,Fletcher Jones Audi,43369,4.8,1048,30500
+Audi A5 2.0T Premium,2018,3,Fletcher Jones Audi,10340,4.8,1048,45551
+Audi Q3 2.0T Premium,2018,3,McGrath Lexus Chicago,10779,4.8,1074,34928
+Audi A5 2.0T Premium,2018,3,Fletcher Jones Audi,17389,4.8,1048,42851
+Audi A8 L 3.0T,2019,2,Fletcher Jones Audi,28501,4.8,1048,52999
+Audi Q5 2.0T Premium Plus,2016,5,"Howard Orloff Jaguar, Volvo Cars, Land Rover",46677,4.7,159,27995
+Audi SQ5 3.0T Premium Plus,2018,3,Baha Auto Sales,59663,4.1,43,48995
+Audi A4 2.0T Premium,2017,4,The Autobarn Volvo Cars of Oak Park,72898,4.8,902,23991
+Audi A4 2.0T Premium quattro,2010,11,Luxury Auto Selection,97074,4.1,34,10985
+Audi Q7 3.0T S line Prestige,2014,7,Chicago Northside Toyota,97074,4.1,425,19490
+Audi Q7 3.0T Premium Plus,2018,3,Toyota of Lincolnwood,17390,4.2,306,52577
+Audi A4 2.0T Premium Plus quattro,2014,7,McGrath City Honda,32593,4.7,989,22325
+Audi S5 3.0T Prestige,2018,3,The Autobarn Collection,41931,4.6,44,49879
+Audi Q7 3.0T S line Prestige,2014,7,Chicago Cars US,97074,4.6,44,17985
+Audi Q7 3.0 TDI Premium,2014,7,Chicago Cars US,97074,4.2,28,16985
+Audi A4 2.0T Premium Plus quattro,2013,8,Baha Auto Group Inc.,88509,4.8,495,18995
+Audi S5 3.0 Premium Plus quattro,2012,9,iCars Chicago,62674,4.8,495,26888
+Audi S4 4.2 quattro Cabriolet,2009,12,iCars Chicago,56024,4.1,1943,21888
+Audi A3 2.0T Premium,2018,3,Sherman Dodge Chrysler Jeep RAM,30608,4.8,495,25921
+Audi S6 5.2 quattro,2008,13,iCars Chicago,58602,4.2,361,19888
+Audi Q8 3.0T Premium,2019,2,Audi Morton Grove,10222,4.2,361,52999
+Audi Q7 3.0T Premium Plus,2018,3,Audi Morton Grove,40295,4.2,361,45490
+Audi Q3 45 S line Premium,2019,0,Audi Morton Grove,16431,4.4,234,39999
+Audi Q7 3.0T S line Prestige,2013,8,Midway Autohaus,81415,4.2,361,21792
+Audi SQ5 3.0T Premium Plus,2018,3,Audi Morton Grove,56431,4.2,361,41999
+Audi A4 2.0T Premium Plus,2019,2,Audi Morton Grove,19653,4.2,361,32999
+Audi Q5 2.0T Premium Plus,2019,2,Audi Morton Grove,11246,4.2,361,43999
+Audi A5 2.0T Premium Plus,2018,3,Audi Morton Grove,40702,4.8,68,35999
+Audi Q8 3.0T Premium,2019,2,Motorcars Express,10096,4.8,3,52999
+Audi Q7 3.0T Premium Plus,2018,3,Chicago Auto Place,29671,4.8,1564,48888
+Audi A5 2.0T Premium Plus,2018,3,INFINITI of Clarendon Hills,58836,4.6,322,43579
+Audi S5 3.0T Premium Plus quattro,2014,7,Highline Auto Sales,85426,4.6,322,24775
+Audi A7 3.0T Prestige quattro,2012,9,Highline Auto Sales,46229,4.6,322,27995
+Audi A6 3.0T Prestige quattro,2012,9,Highline Auto Sales,97074,4.3,138,14995
+Audi Q8 55 Premium,2019,0,Ultimo Motors East,16184,4.7,1108,52999
+Audi Q5 2.0T Premium Plus,2014,7,McGrath Acura of Westmont,81316,4.7,603,19788
+Audi A4 2.0T Premium Plus,2018,3,Audi Westmont,15215,4.7,603,30459
+Audi Q5 2.0T Premium,2017,4,Audi Westmont,84827,4.8,715,23775
+Audi Q8 55 Premium,2019,0,Napleton Porsche of Westmont,4786,4.7,603,52999
+Audi Q7 3.0T S line Prestige,2014,7,Audi Westmont,97074,4.3,138,21305
+Audi Q7 3.0T Prestige,2018,3,Ultimo Motors East,45255,4.7,524,51900
+Audi A4 2.0T Premium,2014,7,International Car Center,64617,4.4,7,17490
+Audi A4 2.0T Premium,2014,7,Top Gear Motors,88602,4.8,695,14945
+Audi A5 2.0T Premium Plus,2018,3,INFINITI of Orland Park A Zeigler Auto Group Company,17688,4.8,695,36693
+Audi A3 2.0T Premium,2018,3,INFINITI of Orland Park A Zeigler Auto Group Company,21404,4.3,186,30483
+Audi A8 L 4.0T,2016,5,Auto's of Chicago,35250,4.8,695,43655
+Audi A7 3.0T Premium Plus,2018,3,INFINITI of Orland Park A Zeigler Auto Group Company,71713,4.7,693,44970
+Audi RS 6 Avant 4.0T quattro,2019,0,Napleton Aston Martin Maserati,9813,4.8,1892,52999
+Audi SQ5 3.0T Premium Plus,2018,3,Joe Rizza Acura,50089,4.6,73,40990
+Audi R8 5.2 quattro Plus,2018,3,Perillo Downers Grove,21215,4.5,1818,52999
+Audi Q5 2.0T Premium Plus,2019,2,Community Honda of Orland Park,16609,4.5,15,42888
+Audi S5 3.0T Prestige quattro,2014,7,Haus of Imports,62330,4.5,388,24900
+Audi Q7 3.0 TDI Premium,2013,8,M & I Motors,87928,4.8,654,19600
+Audi A4 2.0T Premium Plus,2018,3,The Audi Exchange,43152,4.6,634,29587
+Audi R8 5.2 quattro Spyder,2012,9,Greater Chicago Motors,14490,4.8,654,52999
+Audi A3 2.0T Premium,2018,3,The Audi Exchange,19722,4.5,388,29587
+Audi Q7 3.0T Premium Plus,2018,3,M & I Motors,81330,4.8,654,35500
+Audi Q7 3.0T Prestige,2018,3,The Audi Exchange,37048,4.8,654,51787
+Audi Q5 2.0T Tech Premium,2018,3,The Audi Exchange,23846,4.8,883,38787
+Audi Q5 2.0T Premium Plus,2016,5,Napleton's River Oaks Chrysler Jeep Dodge RAM,69538,4.8,654,25200
+Audi A6 55 Premium Plus,2019,2,The Audi Exchange,23948,4.7,267,49787
+Audi Q7 3.0T Premium Plus,2018,3,Audi Orland Park,35627,4.8,799,43995
+Audi A6 55 Premium Plus,2019,2,Volvo Cars Lisle,30586,4.3,6,44595
+Audi A4 2.0T Premium,2014,7,Napleton Off Lease,81358,4.4,569,17900
+Audi A5 2.0T Premium,2011,10,Exotic Motors,57197,4.4,1597,19900
+Audi Q5 2.0T Premium Plus,2016,5,Bob Rohrman Schaumburg Kia,25773,4.8,151,29273
+Audi A5 2.0T Premium,2014,7,Fox Valley Volkswagen Schaumburg,64047,4.6,1943,21990
+Audi A3 2.0T Premium,2019,2,Thomas Dodge Chrysler Jeep RAM of Highland,33281,4.6,1943,32000
+Audi A6 3.0T Premium Plus quattro,2013,8,Schaumburg Honda Automobiles,67302,4.3,213,20500
+Audi A5 2.0T Premium,2011,10,Car City Inc,97074,4.7,1465,14490
+Audi A4 2.0T Premium,2017,4,Schaumburg Toyota,45115,4.8,870,26988
+Audi A5 2.0T Premium Plus,2018,3,Audi Naperville,15759,4.8,870,37991
+Audi A5 2.0T Premium Plus,2018,3,Audi Naperville,13547,4.7,1943,40991
+Audi Q8 55 Premium,2019,0,Audi Hoffman Estates,8236,4.8,870,52999
+Audi A8 L 55,2019,2,Audi Naperville,10701,4.8,870,52999
+Audi A4 2.0T Premium,2017,4,Audi Naperville,37965,4.7,1943,27891
+Audi Q5 2.0T Premium,2018,3,Audi Hoffman Estates,81901,4.8,870,26880
+Audi Q5 2.0T Premium Plus,2016,5,Audi Naperville,34135,4.7,1943,28991
+Audi Q7 3.0T Premium Plus,2018,3,Audi Hoffman Estates,43533,4.8,870,45880
+Audi A4 2.0T Premium Plus,2019,2,Audi Naperville,32316,4.8,870,37971
+Audi Q3 2.0T Premium Plus,2018,3,Audi Naperville,14443,4.8,870,33841
+Audi A5 2.0T Prestige,2018,3,Audi Naperville,35450,4.6,111,39991
+Audi A4 2.0T Premium,2017,4,Napleton Mazda of Naperville,19063,4.8,870,27000
+Audi Q5 2.0T Tech Premium,2018,3,Audi Naperville,44463,4.8,870,39741
+Audi A4 2.0T Premium Plus,2019,2,Audi Naperville,22660,4.8,870,39491
+Audi S5 3.0T Premium Plus quattro,2014,7,Audi Naperville,57763,4.8,870,31991
+Audi Q8 3.0T Premium Plus,2019,2,Audi Naperville,23626,4.7,1663,52999
+Audi A3 2.0T Premium,2018,3,Elgin Toyota,33589,4.5,44,26990
+Audi A4 2.0T Premium quattro,2010,11,Luxury Car Outlet,88090,4.8,654,11995
+Audi A3 2.0T Premium,2018,3,The Audi Exchange,19722,4.2,216,29587
+Audi RS 5 2.9T,2019,2,Porsche Downtown Chicago,17501,4.4,576,52999
+Audi A4 2.0T Premium Plus,2019,2,Toyota of Lincoln Park,7799,4.4,123,36816
+Audi SQ5 3.0T Premium Plus,2018,3,Perillo BMW,17773,4.4,576,47888
+Audi Q5 2.0T Premium Plus,2018,3,McGrath Acura of Chicago,28082,4.8,1048,36350
+Audi A4 2.0T Premium Plus,2019,2,Perillo BMW,55476,4.8,1048,29999
+Audi Q5 45 Titanium Premium,2019,1,Fletcher Jones Audi,11501,4.7,159,46291
+Audi Q8 55 Premium,2019,1,Fletcher Jones Audi,2190,4.8,949,52999
+Audi A4 2.0T Premium Plus quattro,2013,8,"Howard Orloff Jaguar, Volvo Cars, Land Rover",54996,4.5,40,18995
+Audi A4 2.0T Premium,2017,4,McGrath City Mazda,40968,4.7,17,27320
+Audi Q7 3.0T Premium Plus,2013,8,Zeigler Pre-Owned of Chicago,97074,4.7,989,14950
+Audi Q5 2.0T Premium Plus,2018,3,North City Honda,43611,4.7,156,33909
+Audi Q8 3.0T Premium Plus,2019,2,Zeigler Cadillac of Lincolnwood,50235,4.6,44,52999
+Audi S5 3.0T Premium Plus quattro,2014,7,Driven Auto Sales,67172,4.1,1943,29980
+Audi A4 2.0T Premium,2017,4,Sherman Dodge Chrysler Jeep RAM,26428,4.6,1943,26351
+Audi A5 2.0T Premium Plus quattro,2012,9,Sherman Dodge Chrysler Jeep RAM,84441,4.2,361,15356
+Audi Q7 3.0T Premium Plus,2017,4,Hawk Ford of Oak Lawn,75953,4.8,1249,34998
+Audi Q5 45 Premium,2019,1,Audi Morton Grove,11509,4.2,361,45999
+Audi Q5 2.0T Premium Plus,2019,2,Jack Phelan Chrysler Dodge Jeep RAM,15849,4.2,361,42990
+Audi S7 4.0T Premium Plus,2017,4,Audi Morton Grove,33676,4.2,361,52999
+Audi S6 2.9T Premium Plus,2019,1,Audi Morton Grove,6291,4.2,361,52999
+Audi Q8 3.0T Premium,2019,2,Audi Morton Grove,16439,4.6,1943,52999
+Audi Q8 3.0T Premium,2019,2,Audi Morton Grove,21569,4.2,361,52999
+Audi A5 2.0T Premium,2012,9,Advantage Chevrolet,30417,4.2,361,16971
+Audi S6 2.9T Premium Plus,2019,1,Audi Morton Grove,11613,4.7,1473,52999
+Audi A8 L 55,2019,2,Audi Morton Grove,18912,4.2,361,52999
+Audi S4 3.0T Premium Plus,2019,2,Ed Napleton Honda,43503,4.2,361,43500
+Audi Q3 2.0T Premium Plus,2019,1,Audi Morton Grove,10172,4.1,119,39999
+Audi S5 3.0T Premium Plus,2016,5,SJL Motors,67587,4.6,638,29985
+Audi A6 2.0T Premium quattro,2015,6,Chicago Auto Place,70894,4.8,345,24888
+Audi Q5 2.0T Premium Plus,2019,2,McGrath Acura in Morton Grove,23914,4.1,60,39999
+Audi SQ5 3.0T Premium Plus,2017,4,Jaguar Land Rover Hinsdale,21387,4.6,322,43397
+Audi A4 2.0T Avant quattro Premium,2010,11,Coda Motors,97074,4.5,67,9980
+Audi Q3 2.0T Premium,2018,3,Highline Auto Sales,92171,4.8,179,21995
+Audi Q7 3.0T Premium Plus,2017,4,Adam Auto Group,97074,4.7,603,30995
+Audi A4 2.0T Premium quattro,2010,11,Champion Motorsports,97074,4.7,603,9900
+Audi Q5 2.0T Premium,2018,3,Audi Westmont,68652,4.7,524,29397
+Audi Q5 2.0T Tech Premium,2018,3,Audi Westmont,33401,4.7,603,32710
+Audi Q7 3.0T Prestige,2018,3,Mercedes-Benz of Westmont,43206,4.7,603,46000
+Audi Q7 3.0T Prestige,2018,3,Audi Westmont,42418,4.7,603,47305
+Audi R8 5.2 V10,2018,3,Audi Westmont,1636,4.5,55,52999
+Audi A4 quattro,2009,12,United Auto Exchange,74197,4.5,55,11895
+Audi A8 4.2L,2009,12,Chicago Motors Direct,97074,4.8,695,13850
+Audi A3 2.0T Premium,2015,6,United Auto Exchange,77784,4.3,186,17895
+Audi A5 2.0T Premium Plus,2014,7,Star Motor Sales,82138,4.3,6,19987
+Audi Q7 2.0T Premium Plus,2017,4,Auto's of Chicago,34803,4.3,6,39655
+Audi Q5 3.2 Premium Plus,2012,9,Star Auto Works,78601,4.6,73,17986
+Audi RS 5 4.2,2014,7,Star Auto Works,70926,4.7,139,36500
+Audi Q8 3.0T Premium,2019,2,Perillo Downers Grove,7548,4.8,695,52999
+Audi Q3 2.0T Prestige,2015,6,Ultimate Motor Cars,83297,4.7,693,21000
+Audi Q8 55 Prestige,2019,1,Napleton Aston Martin Maserati,10172,4.7,693,52999
+Audi S7 4.0T Prestige quattro,2013,8,Auto's of Chicago,84196,4.8,654,33855
+Audi Q8 3.0T Premium,2019,2,Napleton Aston Martin Maserati,23987,4.5,388,52999
+Audi Q3 2.0T Premium Plus,2018,3,The Audi Exchange,83780,4.8,654,25187
+Audi Q5 3.2 Premium Plus,2012,9,M & I Motors,73421,4.7,1498,18500
+Audi Q5 2.0T Premium Plus,2018,3,The Audi Exchange,31214,4.5,15,37787
+Audi A5 2.0T Premium Plus,2014,7,Napleton River Oaks Honda,67796,4.5,1943,19500
+Audi Q7 3.0T Premium Plus,2017,4,Haus of Imports,97074,4.7,1943,30995
+Audi S5 3.0T Premium Plus,2019,2,Napleton's Arlington Heights Chrysler Dodge Jeep RAM,9956,4.8,799,52999
+Audi A4 2.0T Premium Plus,2018,3,Bill Kay Chevrolet,52518,4.3,845,34498
+Audi S4 3.0T Premium Plus,2019,2,Volvo Cars Lisle,5240,4.6,1943,50307
+Audi Q3 2.0T Premium,2017,4,Arlington Nissan,71254,4.4,496,23899
+Audi Q5 45 Premium,2019,1,Schaumburg Honda Automobiles,37611,4.2,116,39400
+Audi Q7 3.0T Prestige,2018,3,Bob Rohrman's Schaumburg Lincoln,42842,4.2,55,48490
+Audi S3 2.0T Premium Plus,2015,6,Lux Cars Chicago,79248,4.2,116,28945
+Audi Q7 3.0T Premium Plus,2015,6,Auto Showcase of Carol Stream,47085,4.2,55,31995
+Audi S3 2.0T Premium Plus,2016,5,Lux Cars Chicago,70747,4.8,1062,30944
+Audi Q5 2.0T Premium Plus,2018,3,South Suburban Mitsubishi,30508,4.7,1869,38995
+Audi Q5 2.0T Premium Plus,2014,7,Car City Inc,95427,4.8,870,18990
+Audi SQ5 3.0T Premium Plus,2018,3,INFINITI of Hoffman Estates,42030,4.8,870,46952
+Audi Q5 2.0T Premium Plus,2018,3,Audi Naperville,46138,4.8,870,38991
+Audi Q5 2.0T Tech Premium,2018,3,Audi Naperville,54020,4.7,1869,35991
+Audi Q7 3.0T Prestige,2018,3,Audi Naperville,62747,4.8,870,47991
+Audi S5 3.0T Prestige,2018,3,INFINITI of Hoffman Estates,29622,4.7,1943,49351
+Audi Q5 2.0T Premium Plus,2018,3,Audi Naperville,25513,4.6,111,40991
+Audi Q7 3.0T Premium Plus,2018,3,Audi Hoffman Estates,45158,4.7,410,44880
+Audi A4 2.0T Premium Plus,2019,2,Napleton Mazda of Naperville,28154,4.7,1943,34887
+Audi Q3 2.0T Premium Plus,2018,3,Mercedes-Benz of Naperville,52960,4.7,1943,27750
+Audi A6 3.0T Prestige,2019,2,Audi Hoffman Estates,9624,4.7,1943,52999
+Audi SQ5 3.0T Premium Plus,2018,3,Audi Hoffman Estates,38695,4.7,1943,47880
+Audi Q5 2.0T Premium Plus,2018,3,Audi Hoffman Estates,41698,4.7,1943,35980
+Audi A4 2.0T Tech Premium,2018,3,Audi Hoffman Estates,43648,4.7,636,32980
+Audi S4 3.0T Premium Plus,2019,2,Audi Hoffman Estates,28089,4.7,636,50980
+Audi A4 2.0T Premium Plus quattro,2012,9,Conway Imports,97074,4.7,636,9495
+Audi A8 L 4.0T,2013,8,Conway Imports,97074,4.7,636,22995
+Audi A8 L 4.0T,2013,8,Conway Imports,76466,4.8,654,27995
+Audi A3 1.8T Premium,2016,5,Conway Imports,97074,4.8,1048,15995
+Audi Q7 3.0T Prestige,2018,3,The Audi Exchange,37048,4.8,1048,51787
+Audi SQ5 3.0T Premium,2019,2,Fletcher Jones Audi,12454,4.8,1048,52999
+Audi S4 3.0T Premium,2019,2,Fletcher Jones Audi,27355,4.4,576,52999
+Audi A4 2.0T Premium Plus,2018,3,Fletcher Jones Audi,29627,4.8,1048,32500
+Audi A5 2.0T Premium,2019,2,Perillo BMW,58615,4.7,159,35888
+Audi SQ5 3.0T Premium,2019,1,Fletcher Jones Audi,8451,4.7,159,52999
+Audi Q8 3.0T Premium,2019,2,"Howard Orloff Jaguar, Volvo Cars, Land Rover",17000,4.5,828,52999
+Audi Q5 2.0T Premium Plus,2018,3,"Howard Orloff Jaguar, Volvo Cars, Land Rover",31750,4.6,528,36988
+Audi Q5 2.0T Premium Plus,2016,5,The Autobarn Nissan of Evanston,82190,4.1,1943,21993
+Audi A5 2.0T Premium Plus,2018,3,Al Piemonte Ford,12681,4.8,1943,39500
+Audi A4 2.0T Tech Premium,2018,3,Sherman Dodge Chrysler Jeep RAM,30600,4.2,361,28782
+Audi SQ5 3.0T Premium,2019,1,Martin Nissan,10321,4.2,361,52999
+Audi Q5 2.0T Premium Plus,2018,3,Audi Morton Grove,43933,4.2,361,34559
+Audi e-tron Prestige,2019,2,Audi Morton Grove,6634,4.2,361,52999
+Audi Q3 45 S line Premium,2019,1,Audi Morton Grove,11169,4.2,361,37999
+Audi Q5 2.0T Premium Plus,2019,2,Audi Morton Grove,3005,4.2,361,44999
+Audi A5 2.0T Premium Plus,2018,3,Audi Morton Grove,33089,4.2,361,34890
+Audi e-tron Prestige,2019,2,Audi Morton Grove,4177,4.2,361,52999
+Audi Q8 3.0T Premium,2019,2,Audi Morton Grove,18606,4.2,361,52999
+Audi Q8 55 Premium,2019,1,Audi Morton Grove,6306,4.2,361,52999
+Audi SQ5 3.0T Premium Plus,2018,3,Audi Morton Grove,31468,4.2,361,46599
+Audi Q7 2.0T Premium Plus,2018,3,Audi Morton Grove,40301,4.2,361,42999
+Audi A5 2.0T Premium Plus,2018,3,Audi Morton Grove,59399,4.2,361,34599
+Audi Q5 2.0T Premium Plus,2019,2,Audi Morton Grove,17945,4.2,361,41999
+Audi A4 2.0T Premium Plus,2019,2,Audi Morton Grove,35340,4.2,361,35999
+Audi Q8 55 Premium,2019,1,Audi Morton Grove,9159,4.2,361,52999
+Audi RS 5 2.9T,2018,3,Audi Morton Grove,22085,4.2,361,52999
+Audi A4 2.0T Premium Plus,2018,3,Audi Morton Grove,29093,4.2,361,34499
+Audi Q5 2.0T Premium Plus,2019,2,Audi Morton Grove,19008,4.2,361,43995
+Audi Q7 55 Premium Plus,2019,2,Audi Morton Grove,19769,4.2,361,52999
+Audi SQ7 4.0T Premium Plus,2019,1,Audi Morton Grove,3805,4.2,361,52999
+Audi Q8 55 Premium,2019,1,Audi Morton Grove,1013,4.6,1943,52999
+Audi Q5 45 Premium,2019,1,Audi Morton Grove,9434,4.2,361,43999
+Audi Q7 2.0T Premium Plus,2018,3,Advantage Chevrolet,76376,4.2,361,34289
+Audi A3 2.0T Premium,2017,4,S&M Auto Sales,97074,4.7,151,19988
+Audi A8 L 4.0T,2013,8,S&M Auto Sales,73416,4.8,3,27988
+Audi A5 2.0T Premium Plus,2018,3,SJL Motors,8449,4.8,1943,39885
+Audi RS 5 2.9T,2018,3,Chicago Auto Place,23029,4.8,1943,52999
+Audi SQ5 3.0T Premium Plus,2018,3,Grand Subaru,56382,4.6,638,41997
+Audi Q5 2.0T Prestige,2019,2,Grand Subaru,13826,4.8,1564,44955
+Audi Q5 2.0T Premium Plus,2016,5,McGrath Acura in Morton Grove,78326,4.6,322,23999
+Audi Q5 2.0T Premium,2012,9,INFINITI of Clarendon Hills,71228,4.7,603,18555
+Audi Q7 3.0T Premium,2017,4,Highline Auto Sales,75934,4.7,1236,34995
+Audi e-tron Prestige,2019,2,Audi Westmont,9566,4.7,603,52999
+Audi A6 55 Premium Plus,2019,1,Laurel BMW of Westmont,14046,4.7,603,52999
+Audi A7 3.0T Prestige,2017,4,Audi Westmont,97074,4.8,153,33997
+Audi A3 1.8T Premium,2015,6,Auto Gallery Chicago,50223,4.8,1090,25990
+Audi Q5 2.0T Premium Plus,2016,5,"Steve Foley Cadillac, Rolls-Royce, Bentley Northbrook",71107,4.4,355,23499
+Audi Q5 2.0T Premium Plus,2013,8,Heritage Cadillac,97074,4.5,60,15118
+Audi A8 L 4.0T Sport,2017,4,Advantage Toyota of River Oaks,42967,4.7,1045,48773
+Audi A5 2.0T Premium Plus,2018,3,Lombard Toyota,41972,4.8,4,38995
+Audi A3 2.0 TDI Premium Plus,2011,10,US Motors Inc,97074,4.3,6,10995
+Audi S5 4.2 quattro,2009,12,Xchange Motors,96411,4.7,693,19985
+Audi Q8 3.0T Premium Plus,2019,2,Napleton Aston Martin Maserati,30809,4.3,186,52999
+Audi A4 2.0T Premium Plus quattro,2010,11,Auto House Motors,96841,4.6,634,10990
+Audi Q7 3.0T Premium Plus,2014,7,Star Motor Sales,84083,4.8,654,21899
+Audi RS 7 4.0T Prestige,2015,6,Greater Chicago Motors,26875,4.8,654,52999
+Audi S3 2.0T Premium Plus,2017,4,The Audi Exchange,73315,4.8,654,28587
+Audi Q8 55 Premium,2019,0,The Audi Exchange,7502,4.8,654,52999
+Audi Q7 3.0T Prestige,2018,3,The Audi Exchange,25887,4.8,654,52999
+Audi A4 2.0T Premium Plus,2018,3,The Audi Exchange,39419,4.5,1943,33987
+Audi TT RS 2.5,2013,8,The Audi Exchange,43791,4.3,6,44987
+Audi A7 3.0T Prestige,2019,2,Napleton's Arlington Heights Chrysler Dodge Jeep RAM,17297,4.6,52,52999
+Audi Q7 3.0T Premium Plus,2018,3,Napleton Off Lease,16648,4.6,52,47900
+Audi Q5 2.0T Premium,2012,9,CarMax Schaumburg - Now offering Curbside Pickup,42500,4.6,1074,24998
+Audi A4 2.0T Premium Plus,2015,6,Jaguar Land Rover Schaumburg,59156,4.8,1062,20959
+Audi SQ5 3.0T Premium Plus,2017,4,Zeigler Fiat Maserati Alfa Romeo of Schaumburg,74668,4.6,1161,33459
+Audi S5 3.0T Prestige,2015,6,Arlington Acura in Palatine,78084,4.3,44,31985
+Audi TT 2.0T,2008,13,Car City Inc,73192,4.7,1869,14500
+Audi A8 L 55,2019,2,Zeigler Fiat Maserati Alfa Romeo of Schaumburg,23406,4.8,870,52999
+Audi Q8 3.0T Premium Plus,2019,2,INFINITI of Hoffman Estates,33174,4.8,1943,52999
+Audi RS 5 2.9T,2019,2,Audi Naperville,12817,4.5,595,52999
+Audi S4 3.0T Premium Plus,2019,2,Chevrolet of Naperville,39581,4.7,1943,44495
+Audi A4 2.0T Premium Plus,2019,2,Bill Jacobs VW,36559,4.6,111,34700
+Audi A4 2.0T Premium Plus,2018,3,Audi Hoffman Estates,32084,4.7,1943,35880
+Audi A6 2.0T Premium Plus,2018,3,Napleton Mazda of Naperville,36706,4.7,1943,33700
+Audi Q5 45 Premium Plus,2019,1,Audi Hoffman Estates,19656,4.7,1943,49980
+Audi Q7 2.0T Premium Plus,2018,3,Audi Hoffman Estates,18709,4.7,1943,48880
+Audi A4 2.0T Premium Plus,2018,3,Audi Hoffman Estates,21434,4.7,1943,35880
+Audi A6 45 Premium,2019,2,Audi Hoffman Estates,23788,4.7,1943,49880
+Audi Q3 45 S line Premium,2019,0,Audi Hoffman Estates,4726,4.7,1943,42880
+Audi Q7 55 Prestige,2019,0,Audi Hoffman Estates,20625,4.7,1943,52999
+Audi Q5 45 Premium,2019,0,Audi Hoffman Estates,6016,4.8,1943,52990
+Audi Q5 2.0T Prestige,2019,2,Audi Hoffman Estates,20428,4.7,14,48880
+Audi Q7 3.0T Premium Plus,2014,7,Ravenite Motor Cars,97074,4.7,525,17950
+Audi A4 2.0T Premium Plus,2019,2,CarMax Naperville - Now offering Curbside Pickup,10227,4.8,630,38998
+Audi Q8 3.0T Prestige,2019,2,Ultimo Motors West,27556,4.8,630,52999
+Audi R8 5.2 V10 performance,2019,1,Chicago Motor Cars,14052,4.8,654,52999
+Audi A6 3.0T Premium Plus,2016,5,Chicago Motor Cars,71302,4.7,169,25800
+Audi e-tron Prestige,2019,2,Porsche Downtown Chicago,13344,4.7,1022,52999
+Audi Q3 2.0T Prestige,2019,1,Mike Anderson Chevrolet of Chicago,24098,4.6,1419,40995
+Audi A4 2.0T Premium Plus,2018,3,City Volkswagen Of Evanston,27780,4.6,44,31597
+Audi A3 2.0T Premium Plus,2015,6,The Autobarn Mazda of Evanston,74426,4.6,44,19695
+Audi Q5 45 Premium,2019,1,Al Piemonte Nissan,10317,4.7,156,45000
+Audi S4 3.0 Prestige,2011,10,Chicago Cars US,97074,4.6,44,17985
+Audi S4 3.0 Prestige,2010,11,Chicago Cars US,97074,4.1,1943,16985
+Audi Q7 3.0T Prestige,2017,4,Driven Auto Sales,97074,4.2,361,33980
+Audi A6 3.0T Prestige quattro,2013,8,Chicago Cars US,97074,4.2,361,15985
+Audi S4 3.0T Premium Plus,2013,8,Sherman Dodge Chrysler Jeep RAM,97074,4.2,361,20474
+Audi Q3 2.0T Premium Plus,2019,2,Audi Morton Grove,21225,4.2,361,36999
+Audi e-tron Prestige,2019,2,Audi Morton Grove,6893,4.2,361,52999
+Audi Q5 45 Premium,2019,1,Audi Morton Grove,3875,4.8,662,45995
+Audi SQ5 3.0T Premium,2019,1,Audi Morton Grove,8748,4.2,172,52999
+Audi TT 2.0T,2008,13,Chicago Fine Motors,97074,4.1,119,9650
+Audi Q5 3.0T Premium Plus,2017,4,KNB Motors Inc,97074,4.1,119,26495
+Audi Q7 3.0T Premium Plus,2013,8,S&M Auto Sales,97074,4.8,68,14988
+Audi A7 3.0T Premium Plus,2019,2,SJL Motors,6321,4.7,59,52999
+Audi A8 L 55,2019,2,SJL Motors,6900,4.1,549,52999
+Audi A7 3.0T Prestige,2019,2,Motorcars Express,12731,4.8,2,52999
+Audi A4 2.0T Premium Plus,2013,8,CarNeed,42321,4.8,150,19495
+Audi A8 L 3.0T,2019,2,Chicago Auto Place,34586,4.7,671,52999
+Audi S4 3.0T Premium Plus,2018,3,Chicago Auto Place,21575,4.8,1529,43888
+Audi S3 2.0T Prestige,2018,3,Glenview Luxury Imports,67409,4.4,1113,37888
+Audi Q5 2.0T Premium,2015,6,Napleton Hyundai of Glenview,75061,4.6,322,19901
+Audi Q5 2.0T Premium Plus,2015,6,Jennings Chevy / VW,62895,4.1,60,22488
+Audi Q5 Premium Plus,2011,10,Castle Chevrolet of Villa Park,97074,4.6,322,13477
+Audi A8 L 3.0T,2013,8,Highline Auto Sales,79298,4.6,322,26995
+Audi Q7 3.0T Premium Plus,2013,8,Highline Auto Sales,86204,4.5,67,19775
+Audi A4 2.0T Premium Plus,2016,5,Highline Auto Sales,88996,4.7,603,19995
+Audi A4 2.0T Premium,2014,7,Bose Motors,75584,4.7,603,18995
+Audi A6 2.0T Premium Plus quattro,2014,7,Adam Auto Group,97074,4.7,1108,14894
+Audi S4 3.0 Prestige,2012,9,Audi Westmont,97074,4.7,603,17912
+Audi Q3 45 S line Premium,2019,0,Audi Westmont,8088,4.7,603,39777
+Audi Q7 3.0T S line Prestige,2015,6,McGrath Acura of Westmont,97074,4.8,715,23988
+Audi A8 L 4.0T,2015,6,Audi Westmont,50518,4.7,603,36499
+Audi A4 2.0T Premium Plus,2019,2,Audi Westmont,54416,4.7,603,33460
+Audi S7 4.0T Prestige quattro,2014,7,Napleton Porsche of Westmont,97074,4.7,603,28900
+Audi Q5 45 Premium,2019,0,Audi Westmont,6964,4.5,55,48499
+Audi A4 40 Premium,2019,0,Audi Westmont,8882,4.7,693,39777
+Audi A8 3.0T quattro,2013,8,United Auto Exchange,64272,4.5,17,25895
+Audi TT RS 2.5T,2018,3,Napleton Aston Martin Maserati,6543,4.7,719,52999
+Audi A7 3.0T Premium Plus quattro,2012,9,Alpha Luxury Motors,59126,4.7,222,25985
+Audi A6 3.0T Prestige,2016,5,Auto's of Chicago,52536,4.8,20,29855
+Audi Q3 45 S line Premium,2019,1,Castle Chevrolet North,12445,4.7,267,37977
+Audi A4 2.0T Premium Plus,2017,4,CarLotz Downers Grove,94544,4.7,1498,22500
+Audi A3 2.0 TDI Premium,2015,6,D&M Motorsports,14898,4.8,1,23995
+Audi A6 45 Premium,2019,2,Audi Orland Park,16429,4.6,634,44595
+Audi Q5 2.0T Premium Plus,2017,4,Napleton River Oaks Honda,80716,4.8,654,25000
+Audi A4 2.0T Premium Plus,2018,3,Carlotz Highland Park,41746,4.8,654,28500
+Audi A8 L 3.0T,2019,2,Greater Chicago Motors,22610,4.5,15,52999
+Audi S4 3.0T Premium Plus,2019,1,The Audi Exchange,3692,4.7,267,52999
+Audi A8 L 3.0T,2013,8,Haus of Imports,97074,4.8,654,21800
+Audi RS 3 2.5T,2019,2,CarMax Tinley Park - Now offering Curbside Pickup,13799,4.5,15,52999
+Audi A4 45 Premium,2019,1,Audi Orland Park,16225,4.8,654,38995
+Audi Q5 2.0T Premium,2019,2,The Audi Exchange,29475,4.8,799,39987
+Audi A5 Premium Plus,2010,11,Haus of Imports,91090,4.3,6,14500
+Audi A4 2.0T Premium Plus quattro,2014,7,The Audi Exchange,94156,4.7,243,16987
+Audi Q7 3.0T Premium Plus,2018,3,Volvo Cars Lisle,54671,4.6,52,43279
+Audi Q8 55 Premium,2019,0,Napleton Off Lease,8615,4.8,151,52999
+Audi S5 4.2 Prestige quattro,2012,9,Diamond Motorworks,64287,4.4,496,32800
+Audi A8 L 3.0T,2015,6,Guaranteed Motor Cars,67118,4.6,1943,34900
+Audi Q7 3.0T Premium,2017,4,Fox Valley Volkswagen Schaumburg,60133,4.4,496,35990
+Audi A6 3.0T Premium Plus,2017,4,Bob Rohrman's Schaumburg Lincoln,58560,4.8,1943,32990
+Audi A5 2.0T Premium Plus,2019,2,Thomas Dodge Chrysler Jeep RAM of Highland,30523,4.8,22,38000
+Audi A3 2.0T S line Premium,2019,1,Bob Rohrman's Schaumburg Lincoln,2996,4.2,116,35490
+Audi S5 3.0T Premium Plus,2018,3,Woodfield Lexus,55913,4.2,116,45995
+Audi A4 2.0T Premium quattro,2013,8,CRS Auto Group,81680,4.2,116,15988
+Audi A6 3.0T Premium Plus quattro,2014,7,Lux Cars Chicago,79684,4.3,44,20975
+Audi A5 2.0T Premium Plus,2018,3,Lux Cars Chicago,63464,4.2,11,33975
+Audi SQ5 3.0T Premium,2019,2,Zeigler Fiat Maserati Alfa Romeo of Schaumburg,20271,4.6,463,51875
+Audi Q5 2.0T Premium Plus,2015,6,Schaumburg Pre-Driven,84176,4.3,44,21659
+Audi Q5 3.0T Premium Plus,2014,7,Car City Inc,97074,4.7,1943,18990
+Audi A5 2.0T Premium,2015,6,Chevrolet of Palatine,69812,4.7,1943,23777
+Audi Q5 2.0T Premium Plus,2013,8,Zeigler Fiat Maserati Alfa Romeo of Schaumburg,90669,4.7,1943,17975
+Audi RS 7 4.0T Prestige,2017,4,Lexus of Arlington,55106,4.3,28,52999
+Audi R8 5.2 quattro Plus,2017,4,Audi Hoffman Estates,6068,4.8,870,52999
+Audi Q5 2.0T Prestige,2018,3,Audi Hoffman Estates,30293,4.7,1943,42980
+Audi A8 L 3.0T,2013,8,Import Exchange Inc.,97074,4.7,1943,18900
+Audi e-tron Prestige,2019,2,Audi Naperville,15643,4.1,16,52999
+Audi Q3 45 S line Premium,2019,0,Audi Hoffman Estates,12287,4.3,28,40880
+Audi TT 2.0T Premium Plus quattro,2014,7,Audi Hoffman Estates,16881,4.8,870,32880
+Audi A6 3.0T Premium Plus,2018,3,B & M Auto Sales,45097,4.7,1943,38900
+Audi Q7 3.0T S line Prestige,2015,6,Import Exchange Inc.,97074,4.7,525,24900
+Audi A4 40 Premium Plus,2019,1,Audi Naperville,8041,4.7,636,41991
+Audi SQ5 3.0T Premium,2019,1,Audi Hoffman Estates,8015,4.6,74,52999
+Audi S4 3.0T Premium Plus,2013,8,Ultimo Motors West,67502,4.8,654,26900
+Audi A6 3.0T Premium Plus quattro,2014,7,Conway Imports,88322,4.8,1048,20995
+Audi Q5 2.0T Premium,2014,7,Shaver Preferred Motors,77128,4.6,1442,21500
+Audi A6 55 Premium Plus,2019,2,The Audi Exchange,23948,4.8,1048,49787
+Audi A5 2.0T Premium Plus,2019,2,Porsche Downtown Chicago,5925,4.8,1048,41500
+Audi A5 2.0T Premium Plus,2019,1,Fletcher Jones Audi,6200,4.8,1585,48888
+Audi Q5 2.0T Premium Plus,2017,4,Volkswagen of Downtown Chicago,37231,4.1,43,29000
+Audi Q3 2.0T Prestige,2016,5,Fletcher Jones Audi,30638,4.7,169,27551
+Audi SQ7 4.0T Premium Plus,2019,1,Fletcher Jones Audi,9591,4.8,1943,52999
+Audi A4 2.0T Premium,2017,4,Marino Chrysler Jeep Dodge RAM,42794,4.5,24,24994
+Audi A4 2.0T Avant quattro,2008,13,777 Auto Sales,76829,4.6,44,10777
+Audi A3 2.0T Premium,2018,3,Zeigler Cadillac of Lincolnwood,70112,4.2,361,23018
+Audi A4 2.0T Premium quattro,2011,10,Moto Zone Inc.,61948,4.1,28,12995
+Audi Q5 2.0T Premium Plus,2018,3,Summit Auto Center,44939,4.2,361,30975
+Audi S4 3.0 Premium Plus,2011,10,Chicago Cars US,97074,4.5,504,18985
+Audi RS 5 2.9T,2019,0,Audi Morton Grove,1504,4.1,28,52999
+Audi A3 2.0T Premium,2019,2,Volkswagen of Oak Lawn,29914,4.6,906,28620
+Audi SQ5 3.0T Premium,2019,1,Audi Morton Grove,25505,4.3,27,52999
+Audi A7 3.0T Premium Plus,2018,3,Star Nissan,8831,4.2,361,52999
+Audi TT 2.0T Premium Plus quattro,2013,8,Volkswagen of Oak Lawn,87943,4.2,361,23998
+Audi Q7 55 Premium Plus,2019,2,Ettleson Buick GMC,45526,4.7,1943,45706
+Audi SQ5 3.0T Premium Plus,2015,6,Golf Mill Ford,55466,4.8,3,29998
+Audi A7 3.0T Premium Plus,2016,5,S&M Auto Sales,66799,4.8,68,41988
+Audi Q5 3.2 Premium Plus,2010,11,S&M Auto Sales,97074,4.1,119,10988
+Audi Q7 2.0T Premium Plus,2017,4,S&M Auto Sales,87319,4.1,119,36988
+Audi A3 2.0T Premium,2012,9,Pro Cars USA Inc,84068,4.8,3,10895
+Audi SQ5 3.0T Premium Plus,2019,1,Motorcars Express,4120,4.8,173,52999
+Audi RS 5 2.9T,2019,2,SJL Motors,11608,4.8,173,52999
+Audi Q5 45 Premium,2019,1,SJL Motors,859,4.6,638,42555
+Audi Q5 Premium Plus,2011,10,Pro Cars USA Inc,97074,4.7,671,11895
+Audi S7 4.0T Premium Plus,2017,4,McGrath Acura in Morton Grove,35969,4.5,67,52999
+Audi A4 2.0T Premium Plus,2017,4,Napleton Hyundai of Glenview,61416,4.5,67,25415
+Audi S5 3.0T Prestige,2019,1,Chicago Auto Place,6403,4.5,67,52999
+Audi Q5 2.0T Tech Premium,2018,3,Chicago Auto Place,82399,4.4,58,28888
+Audi A8 4.0T,2013,8,Adam Auto Group,97074,4.7,1943,21995
+Audi Q7 3.0T Premium Plus,2014,7,Adam Auto Group,97074,4.5,67,20850
+Audi Q7 3.0T Premium Plus,2014,7,Adam Auto Group,97074,4.5,67,17777
+Audi Q5 2.0T Prestige,2018,3,Jidd Motors,80487,4.2,71,31985
+Audi Q7 3.0T Premium Plus,2017,4,Adam Auto Group,97074,4.7,603,27995
+Audi Q3 2.0T Prestige,2015,6,Adam Auto Group,86527,4.7,1857,21099
+Audi Q5 3.2 Premium,2010,11,Bose Motors,97074,4.7,603,10906
+Audi A4 2.0T Prestige,2010,11,Your Choice Auto Sales of Posen,97074,4.5,60,10999
+Audi A5 Premium Plus,2010,11,Audi Westmont,68188,4.5,55,18000
+Audi A5 2.0T Premium,2018,3,Oakbrook Toyota in Westmont,38189,4.4,7,31753
+Audi SQ5 3.0T Prestige,2018,3,Audi Westmont,31945,4.8,153,46390
+Audi A3 2.0T Premium,2016,5,Volkswagen of Mount Prospect,18045,4.7,139,22922
+Audi A3 2.0 TDI Prestige,2015,6,United Auto Exchange,91555,4.7,139,20895
+Audi Q5 3.0T Premium Plus,2016,5,Top Gear Motors,84372,4.7,222,24945
+Audi A3 2.0T Premium,2016,5,"Steve Foley Cadillac, Rolls-Royce, Bentley Northbrook",56590,4.7,693,21999
+Audi TT 2.0T,2008,13,International Car Center,64388,4.7,222,14995
+Audi Q7 2.0T Premium Plus,2018,3,CarLotz Downers Grove,53944,4.8,654,36298
+Audi A8 L 60,2019,2,Napleton Aston Martin Maserati,14257,4.4,223,52999
+Audi Q7 3.0T Premium Plus,2015,6,CarLotz Downers Grove,83564,4.5,15,23800
+Audi S3 2.0T Premium Plus,2015,6,Auto's of Chicago,47770,4.8,654,28555
+Audi Q5 2.0T Premium Plus,2015,6,Lexus Of Highland Park,67476,4.8,654,21907
+Audi A4 2.0T Premium Plus quattro,2010,11,The Audi Exchange,97074,4.5,388,9787
+Audi S7 4.0T quattro,2016,5,Lexus Of Highland Park,54814,4.8,654,47000
+Audi A4 45 Premium,2019,1,The Audi Exchange,2405,4.5,388,43930
+Audi TTS 2.0T quattro,2019,1,The Audi Exchange,7840,4.6,634,52999
+Audi A6 3.0T Premium Plus quattro,2012,9,M & I Motors,97074,4.8,1,15500
+Audi A5 2.0T Premium,2019,1,The Audi Exchange,10182,4.5,388,46350
+Audi A3 2.0T Premium Plus,2015,6,Carlotz Highland Park,87812,4.6,52,17998
+Audi A4 2.0T Premium Plus,2017,4,Guaranteed Motor Cars,39368,4.3,44,29900
+Audi A3 2.0 TDI Premium Plus,2012,9,Napleton's Palatine Mazda,74074,4.6,1074,13923
+Audi Q5 3.2 Prestige,2010,11,Excalibur Auto Sales,97074,4.8,1943,10999
+Audi A4 2.0T Premium quattro,2011,10,Car City Inc,97074,4.7,1943,12990
+Audi S4 3.0 Premium Plus,2012,9,Zeigler Fiat Maserati Alfa Romeo of Schaumburg,97074,4.8,1475,14576
+Audi Q7 3.0T Prestige,2018,3,Jaguar Land Rover Schaumburg,74168,4.7,1869,38959
+Audi S4 3.0T Prestige,2014,7,Bill Jacobs VW,91369,4.8,1475,25400
+Audi A5 2.0T Premium Plus,2015,6,INFINITI of Naperville,53314,4.8,870,23924
+Audi S5 3.0T Prestige,2018,3,Audi Hoffman Estates,15729,4.8,870,51880
+Audi A5 2.0T Prestige quattro,2011,10,Muller's Woodfield Acura,70827,4.7,636,15898
+Audi TT 2.0T,2019,1,Audi Naperville,5502,4.5,44,50991
+Audi A4 2.0T Premium Plus quattro,2011,10,Napleton Nissan,97074,4.8,1348,6725
+Audi Q5 3.2 Premium Plus,2010,11,Silver Auto Sales Inc.,95053,4.8,654,12995
+Audi A5 2.0T Prestige quattro,2013,8,Conway Imports,97074,4.8,1048,18695
+Audi Q5 2.0T Premium Plus,2016,5,Silver Auto Sales Inc.,63721,4.8,1048,22992
+Audi A7 3.0T Premium Plus quattro,2012,9,Luxury Car Outlet,97074,4.8,902,18995
+Audi A4 2.0T Premium Plus,2018,3,Haggerty Ford,38097,4.8,902,33400
+Audi Q3 2.0T Premium Plus,2018,3,The Audi Exchange,83780,4.5,250,25187
+Audi S4 3.0T Premium Plus,2019,0,Fletcher Jones Audi,1596,4.1,64,52999
+Audi A3 2.0T Premium,2019,2,The Autobarn Volvo Cars of Oak Park,7311,4.2,28,36990
+Audi Q5 2.0T Prestige,2018,3,The Autobarn Volvo Cars of Oak Park,36003,4.7,156,39593
+Audi Q5 e 55 Premium,2019,0,Napleton's Northwestern Chrysler Jeep Dodge RAM,293,4.8,836,52999
+Audi Q3 2.0T Prestige,2015,6,Zeigler Cadillac of Lincolnwood,95029,4.1,1943,19570
+Audi Q7 3.0T Prestige,2018,3,Zeigler Ford of North Riverside,43056,4.2,361,48799
+Audi A3 2.0T Premium Plus,2016,5,Baha Auto Group Inc.,97074,4.2,361,18995
+Audi A4 2.0T Premium quattro,2011,10,Driven Auto Sales,63054,4.2,361,13980
+Audi e-tron Premium,2019,0,Sherman Dodge Chrysler Jeep RAM,1896,4.2,361,52999
+Audi A8 L 60,2019,2,Audi Morton Grove,11596,4.2,361,52999
+Audi TT 2.0T Premium Plus quattro,2014,7,Audi Morton Grove,38657,4.2,361,27990
+Audi TT 2.0T Cabriolet,2008,13,Chicago Fine Motors,97074,4.2,361,8950
+Audi A5 2.0T Prestige,2018,3,Audi Morton Grove,30265,4.1,549,39999
+Audi A6 3.0T Prestige,2015,6,S&M Auto Sales,97074,4.2,71,26988
+Audi A7 3.0T Premium Plus,2016,5,S&M Auto Sales,93083,4.1,60,35988
+Audi Q7 3.0T Prestige,2018,3,S&M Auto Sales,67373,4.1,72,46988
+Audi A3 2.0T Premium,2016,5,S&M Auto Sales,75435,4.1,60,23988
+Audi A4 45 Premium,2019,1,Ed Napleton Acura Kia,9044,4.1,60,35995
+Audi A3 2.0T Premium,2018,3,Chicago Auto Place,57323,4.5,67,23888
+Audi Q5 2.0T Premium Plus,2015,6,Coda Motors,97074,4.8,715,15980
+Audi Q5 2.0T Premium,2012,9,Lucky Motors Megastore of Villa Park,97074,4.7,603,10480
+Audi A5 2.0T Premium,2011,10,Coda Motors,97074,4.7,603,14990
+Audi A8 L 3.0T,2013,8,Adam Auto Group,97074,4.7,603,18775
+Audi A7 3.0T Prestige,2018,3,Napleton Porsche of Westmont,31685,4.5,55,47000
+Audi SQ5 3.0T Premium,2019,1,Napleton Porsche of Westmont,12700,4.5,55,52999
+Audi A6 55 Prestige,2019,0,Audi Westmont,8766,4.5,55,52999
+Audi A3 2.0T Premium,2018,3,Oakbrook Toyota in Westmont,57861,4.5,55,27900
+Audi Q5 2.0T Prestige,2018,3,Audi Westmont,40442,4.5,55,37995
+Audi Q7 45 Premium,2019,0,Audi Westmont,4525,4.6,107,52999
+Audi SQ5 3.0T Premium Plus,2014,7,United Auto Exchange,97074,4.5,60,21995
+Audi A5 2.0T Premium Plus,2014,7,United Auto Exchange,97074,4.5,60,17895
+Audi S5 3.0 Premium Plus quattro,2010,11,United Auto Exchange,89688,4.7,693,17999
+Audi A5 2.0T Premium,2011,10,United Auto Exchange,70791,4.7,693,15800
+Audi Q5 3.2 Premium Plus,2012,9,Net Motorcars,87695,4.7,222,18750
+Audi S6 2.9T Premium Plus,2019,0,Ultimo Motors North Shore,3656,4.7,693,52999
+Audi Q5 Premium Plus,2011,10,Volkswagen of Mount Prospect,97074,4.7,693,9801
+Audi TT RS 2.5T,2018,3,Ultimo Motors North Shore,18996,4.7,693,52999
+Audi A8 L 60,2019,0,Napleton Aston Martin Maserati,3073,4.6,73,52999
+Audi A6 2.0T Premium Plus,2018,3,Napleton Aston Martin Maserati,21808,4.5,15,34670
+Audi A6 3.0 TDI Premium Plus,2016,5,CarLotz Downers Grove,67692,4.6,634,27998
+Audi Q5 2.0T Premium Plus,2014,7,Auto's of Chicago,85329,4.6,634,18395
+Audi R8 5.2 V10,2019,1,Napleton Aston Martin Maserati,2682,4.6,634,52999
+Audi A4 40 Premium Plus,2019,0,Napleton Aston Martin Maserati,6967,4.5,388,45000
+Audi S6 4.0T Premium Plus,2017,4,Napleton Aston Martin Maserati,52160,4.7,1943,46000
+Audi Q3 45 Premium,2019,1,Perillo Downers Grove,1206,4.8,654,39977
+Audi Q5 3.0T Premium Plus,2014,7,Haus of Imports,97074,4.5,388,17995
+Audi SQ5 3.0T Prestige,2018,3,Greater Chicago Motors,29824,4.5,388,47777
+Audi S5 3.0T Premium Plus,2015,6,Greater Chicago Motors,53117,4.3,6,27495
+Audi Q7 3.0 Prestige,2010,11,Greater Chicago Motors,79999,4.3,6,18995
+Audi Q7 3.0T Premium,2014,7,M & I Motors,97074,4.5,1943,19300
+Audi A5 Premium Plus,2018,3,Family Hyundai,19974,4.7,243,36996
+Audi A8 L 60,2019,2,The Audi Exchange,11393,4.2,55,52999
+Audi S8 4.0T quattro,2013,8,M & I Motors,76249,4.2,116,33000
+Audi SQ5 3.0T Prestige,2018,3,M & I Motors,61403,4.2,116,39900
+Audi A4 2.0T Prestige quattro,2012,9,Napleton Off Lease,96447,4.2,116,13900
+Audi S8 4.0T quattro,2019,1,Napleton's Arlington Heights Chrysler Dodge Jeep RAM,3437,4.2,116,52999
+Audi TT 2.0T,2017,4,Diamond Motorworks,37635,4.7,1943,34800
+Audi Q7 3.0T Premium Plus,2017,4,Lux Cars Chicago,72843,4.7,1943,34957
+Audi A3 2.0T Premium,2016,5,Lux Cars Chicago,57563,4.7,1943,21945
+Audi A4 2.0T Premium,2016,5,Lexus of Arlington,44220,4.7,1943,21295
+Audi Q5 2.0T Premium Plus,2013,8,Car City Inc,97074,4.7,1943,17990
+Audi A6 2.0T Premium Plus quattro,2014,7,Excalibur Auto Sales,97074,4.8,870,15795
+Audi Q5 2.0T Premium,2012,9,Car City Inc,92865,4.7,1943,14990
+Audi A4 2.0T Premium,2015,6,Lexus of Arlington,59767,4.8,870,19995
+Audi Q5 2.0T Premium,2012,9,Car City Inc,91986,4.8,870,14990
+Audi A7 3.0T Prestige,2019,2,Audi Hoffman Estates,22400,4.7,1032,52999
+Audi S3 2.0T Premium Plus,2018,3,Audi Hoffman Estates,28410,4.7,1943,41880
+Audi A4 2.0T Premium Plus,2018,3,Audi Hoffman Estates,45272,4.7,1943,34580
+Audi Q5 2.0T Tech Premium,2018,3,Audi Naperville,20591,4.7,525,40991
+Audi S8 4.0T quattro,2014,7,Audi Hoffman Estates,63833,4.7,636,40980
+Audi A6 2.0T Premium quattro,2018,3,Audi Naperville,31139,4.7,636,32491
+Audi A4 2.0T Premium Plus quattro,2014,7,Audi Naperville,65375,4.5,44,20991
+Audi RS 6 Avant 4.0T quattro,2019,0,Mercedes Benz of Hoffman Estates,2368,4.5,44,52999
+Audi A4 2.0T Prestige,2018,3,Audi Hoffman Estates,37872,4.7,636,37980
+Audi e-tron Premium Plus,2019,2,Audi Hoffman Estates,6641,4.7,636,52999
+Audi S3 2.0T Premium Plus,2018,3,Ultimo Motors West,31603,4.7,636,39900
+Audi S3 2.0T Premium Plus,2015,6,Conway Imports,64467,4.8,654,27995
+Audi A3 1.8T Premium,2016,5,Conway Imports,62283,4.8,1074,22995
+Audi allroad 2.0T Premium quattro,2013,8,Luxury Car Outlet,97074,4.6,1442,15995
+Audi A4 ,2009,12,Luxury Car Outlet,97074,4.4,576,10495
+Audi A7 3.0T Prestige quattro,2014,7,Conway Imports,57780,4.3,1943,33495
+Audi A6 3.0T Premium Plus quattro,2013,8,Conway Imports,97074,4.6,1442,18495
+Audi allroad 2.0T Premium Plus quattro,2013,8,Conway Imports,69639,4.1,43,21495
+Audi A3 2.0T Premium Plus,2015,6,McGrath Lexus Chicago,35329,4.1,34,28999
+Audi A4 2.0T Premium Plus quattro,2010,11,Volkswagen of Downtown Chicago,72606,4.5,250,12000
+Audi A5 2.0T Premium,2013,8,Carvana-Touchless Delivery To Your Home,68777,4.7,156,20990
+Audi A6 3.0T Prestige quattro,2012,9,Volkswagen of Downtown Chicago,97074,4.1,28,13501
+Audi Q3 2.0T Premium,2018,3,Napleton's Northwestern Chrysler Jeep Dodge RAM,37064,4.7,337,27843
+Audi Q5 45 Premium Plus,2019,1,Porsche Lincolnwood,8533,4.3,12,43970
+Audi A3 2.0T Premium Plus,2017,4,Driven Auto Sales,37188,4.8,150,26980
+Audi A3 1.8T Premium,2015,6,Volkswagen of Oak Lawn,68037,4.3,1943,18722
+Audi A8 4.2 quattro,2012,9,S&M Auto Sales,89066,4.3,1943,22988
+Audi S7 4.0T quattro,2016,5,S&M Auto Sales,97074,4.3,1943,37988
+Audi A5 2.0T Premium,2011,10,Chicago Auto Place,81089,4.3,1943,15888
+Audi A6 2.0T Premium Plus,2017,4,Roesch Ford,40153,4.3,1943,28700
+Audi S4 3.0T Premium Plus,2016,5,Continental Ferrari,93172,4.3,1943,27490
+Audi S8 4.0T quattro,2019,0,Glenview Luxury Imports,1559,4.3,1943,52999
+Audi Q3 2.0T Prestige,2015,6,Carvana-Touchless Delivery To Your Home,44810,4.3,1943,25990
+Audi A4 2.0T Premium Plus,2018,3,Carvana-Touchless Delivery To Your Home,32996,4.3,1943,31990
+Audi TT 2.0T,2016,5,Carvana-Touchless Delivery To Your Home,58694,4.3,1943,31990
+Audi allroad 2.0T Premium Plus quattro,2014,7,Carvana-Touchless Delivery To Your Home,75967,4.3,1943,20990
+Audi A4 2.0T Premium,2010,11,Carvana-Touchless Delivery To Your Home,42678,4.3,1943,15990
+Audi Q5 3.0 TDI Premium Plus,2014,7,Carvana-Touchless Delivery To Your Home,61346,4.3,1943,25990
+Audi A3 e-tron 1.4T Premium,2018,3,Carvana-Touchless Delivery To Your Home,34014,4.3,1943,28990
+Audi Q5 2.0T Premium Plus,2017,4,Carvana-Touchless Delivery To Your Home,50660,4.3,1943,28990
+Audi A4 2.0T Premium Plus,2018,3,Carvana-Touchless Delivery To Your Home,11987,4.3,1943,33990
+Audi A7 3.0T Prestige,2016,5,Carvana-Touchless Delivery To Your Home,34786,4.3,1943,39990
+Audi A3 e-tron 1.4T Premium,2017,4,Carvana-Touchless Delivery To Your Home,33624,4.3,1943,26990
+Audi A6 2.0T Premium,2017,4,Carvana-Touchless Delivery To Your Home,47674,4.3,1943,27590
+Audi TTS 2.0T quattro,2017,4,Carvana-Touchless Delivery To Your Home,19078,4.3,1943,43990
+Audi Q5 3.0T Premium Plus,2016,5,Carvana-Touchless Delivery To Your Home,29251,4.3,1943,30990
+Audi A5 2.0T Premium,2012,9,Carvana-Touchless Delivery To Your Home,57584,4.3,1943,21990
+Audi Q3 2.0T Prestige,2016,5,Carvana-Touchless Delivery To Your Home,41194,4.3,1943,26590
+Audi A3 e-tron 1.4T Premium,2016,5,Carvana-Touchless Delivery To Your Home,44655,4.3,1943,24990
+Audi A3 2.0T Premium,2017,4,Carvana-Touchless Delivery To Your Home,9263,4.3,1943,26990
+Audi Q5 2.0T Premium,2017,4,Carvana-Touchless Delivery To Your Home,34184,4.3,1943,29990
+Audi Q3 2.0T Premium Plus,2017,4,Carvana-Touchless Delivery To Your Home,44425,4.3,1943,25990
+Audi A7 3.0 TDI Prestige quattro,2014,7,Carvana-Touchless Delivery To Your Home,82457,4.3,1943,28990
+Audi Q7 3.0T Prestige,2017,4,Carvana-Touchless Delivery To Your Home,75507,4.3,1943,36990
+Audi S4 3.0T Premium Plus,2015,6,Carvana-Touchless Delivery To Your Home,79124,4.3,1943,27990
+Audi Q3 2.0T Premium Plus,2018,3,Carvana-Touchless Delivery To Your Home,11288,4.3,1943,31590
+Audi Q7 3.0T Prestige,2018,3,Carvana-Touchless Delivery To Your Home,53606,4.3,1943,45590
+Audi Q7 3.0T Premium,2014,7,Carvana-Touchless Delivery To Your Home,71467,4.3,1943,23990
+Audi Q5 2.0T Tech Premium,2018,3,Carvana-Touchless Delivery To Your Home,34753,4.3,1943,35990
+Audi A3 2.0T Premium,2019,2,Carvana-Touchless Delivery To Your Home,18486,4.3,1943,31990
+Audi Q3 2.0T Prestige,2016,5,Carvana-Touchless Delivery To Your Home,79208,4.3,1943,24590
+Audi Q3 2.0T Prestige,2015,6,Carvana-Touchless Delivery To Your Home,25198,4.3,1943,26990
+Audi A4 2.0T Premium Plus,2016,5,Carvana-Touchless Delivery To Your Home,65123,4.3,1943,22590
+Audi TT 2.0T Premium Plus quattro,2012,9,Carvana-Touchless Delivery To Your Home,89547,4.3,1943,19990
+Audi TT 2.0T,2016,5,Carvana-Touchless Delivery To Your Home,62301,4.3,1943,32590
+Audi Q5 2.0T Premium,2014,7,Carvana-Touchless Delivery To Your Home,70385,4.3,1943,20990
+Audi TT 2.0T,2017,4,Carvana-Touchless Delivery To Your Home,31985,4.3,1943,36990
+Audi A4 2.0T Premium Plus,2018,3,Carvana-Touchless Delivery To Your Home,31354,4.3,1943,29590
+Audi A4 2.0T Premium,2017,4,Carvana-Touchless Delivery To Your Home,36787,4.3,1943,26990
+Audi TTS 2.0T Prestige quattro,2013,8,Carvana-Touchless Delivery To Your Home,54929,4.3,1943,30990
+Audi Q5 2.0T Premium,2017,4,Carvana-Touchless Delivery To Your Home,43957,4.5,67,28590
+Audi Q3 2.0T Prestige,2017,4,Carvana-Touchless Delivery To Your Home,22264,4.5,67,29990
+Audi Q3 2.0T Premium,2017,4,Carvana-Touchless Delivery To Your Home,52387,4.7,603,24990
+Audi A7 3.0T quattro Premium,2012,9,Carvana-Touchless Delivery To Your Home,65514,4.3,138,25990
+Audi A8 3.0T,2014,7,Carvana-Touchless Delivery To Your Home,67872,4.7,603,28990
+Audi A6 3.0T quattro Sport,2018,3,Carvana-Touchless Delivery To Your Home,41491,4.5,55,33990
+Audi Q5 2.0T Premium Plus,2015,6,Adam Auto Group,97074,4.5,60,17567
+Audi Q5 2.0T Premium Plus,2015,6,Audi Westmont,97074,4.5,55,18597
+Audi S8 4.0T quattro,2014,7,Ultimo Motors East,84486,4.5,55,35900
+Audi A6 3.0T Premium Plus,2019,2,Ultimo Motors North Shore,62330,4.3,186,44900
+Audi S5 3.0T Premium Plus quattro,2014,7,355 North Auto Inc,97074,4.8,488,20891
+Audi A4 2.0T Premium,2010,11,United Auto Exchange,76432,4.8,654,10895
+Audi allroad 2.0T Premium Plus,2015,6,United Auto Exchange,95595,4.8,725,19895
+Audi Q7 3.0T S line Prestige,2014,7,Net Motorcars,78048,4.8,654,27750
+Audi A7 3.0T Premium Plus,2018,3,Perillo Downers Grove,17651,4.8,1943,50774
+Audi S7 4.0T Prestige quattro,2013,8,Auto's of Chicago,58331,4.7,1943,36000
+Audi Q7 3.0T Premium,2015,6,Star Motor Sales,65958,4.6,52,24994
+Audi Q5 2.0T Premium Plus,2017,4,Volkswagen of Orland Park,74079,4.6,52,24995
+Audi TT 2.0T,2019,0,The Audi Exchange,2589,4.8,151,49740
+Audi Q5 2.0T Premium Plus,2015,6,Highland Park Ford Lincoln,69395,4.6,1943,23995
+Audi S8 4.0T quattro,2019,0,The Audi Exchange,3964,4.2,116,52999
+Audi Q7 55 Premium Plus,2019,2,Arlington Heights Buick GMC,67964,4.2,55,43983
+Audi A6 2.0T quattro Sport,2018,3,Guaranteed Motor Cars,51608,4.4,52,32900
+Audi S8 4.0T quattro,2014,7,Guaranteed Motor Cars,63185,4.7,1943,43900
+Audi A4 2.0T Premium Plus quattro,2013,8,Fox Valley Volkswagen Schaumburg,83783,4.7,427,16490
+Audi A3 2.0T Premium Plus,2015,6,Schaumburg Honda Automobiles,74109,4.7,410,18900
+Audi A7 3.0T Prestige quattro,2013,8,Lux Cars Chicago,87558,4.7,574,27945
+Audi A3 2.0 TDI Premium,2015,6,Auto Showcase of Carol Stream,68593,4.7,636,18995
+Audi S5 3.0T Prestige,2019,2,Napleton's Palatine Subaru,37907,4.8,630,52999
+Audi A7 3.0T Prestige,2015,6,Premier Auto,97074,4.7,636,22777
+Audi A4 2.0T Premium,2018,3,Audi Hoffman Estates,30084,4.6,74,32980
+Audi S5 3.0T Premium Plus,2018,3,Advantage Acura of Naperville,52498,4.8,1074,47547
+Audi A6 2.0T Premium Plus,2016,5,Mercedes-Benz of Naperville,53940,4.8,902,25500
+Audi A3 2.0T Premium,2018,3,Napleton Autowerks Schererville,37344,4.5,24,28977
+Audi Q5 2.0T Premium,2012,9,Conway Imports,97074,4.3,1943,15495
+Audi RS Q8 4.0T quattro,2019,0,Chicago Motor Cars,349,4.6,528,52999
+Audi A5 2.0T Prestige quattro,2010,11,Conway Imports,81932,4.8,495,16495
+Audi A4 2.0T Premium,2015,6,Shaver Preferred Motors,59376,4.2,361,23999
+Audi S3 2.0T Premium Plus,2017,4,The Audi Exchange,73315,4.4,234,28587
+Audi Q3 40 Premium,2019,0,McGrath Lexus Chicago,2625,4.2,361,38499
+Audi S3 2.0T Prestige,2016,5,The Autobarn Volvo Cars of Oak Park,42630,4.4,234,31994
+Audi A4 2.0T Avant quattro Premium,2010,11,Moto Zone Inc.,92432,4.8,173,9995
+Audi A6 3.0T Prestige,2016,5,Carvana-Touchless Delivery To Your Home,72976,4.8,173,27590
+Audi A3 2.0T Premium,2018,3,Al Piemonte Ford,42944,4.7,59,26900
+Audi A7 3.0T Premium Plus quattro,2014,7,iCars Chicago,59945,4.8,68,32588
+Audi A5 2.0T Sport,2017,4,Audi Morton Grove,57508,4.8,2,26720
+Audi allroad 2.0T Premium Plus quattro,2013,8,Midway Autohaus,77664,4.8,150,19591
+Audi Q3 2.0T Prestige,2015,6,Midway Autohaus,97074,4.8,1529,15993
+Audi A4 2.0T quattro,2008,13,TRED (Private Seller) Chicago,97074,4.8,150,5039
+Audi Q7 3.0T Premium Plus,2017,4,Titan Auto Sales,97074,4.5,67,27299
+Audi Q7 3.0T S line Prestige,2013,8,Titan Auto Sales,70130,4.5,67,22825
+Audi A8 quattro,2008,13,My Choice Motors of Elmhurst,97074,4.1,60,9999
+Audi Q7 3.0T Prestige,2017,4,Motorcars Express,44300,4.1,60,40991
+Audi A4 2.0T Premium Plus quattro,2009,12,Nice Rides LLC,97074,4.7,603,9475
+Audi A4 2.0T Premium quattro,2012,9,Elite Car Outlet,97074,4.7,603,10499
+Audi A4 40 Prestige,2019,1,Glenview Luxury Imports,3620,4.3,138,49970
+Audi A6 3.0T Premium quattro,2013,8,Chicago Auto Place,90621,4.3,138,21888
+Audi S3 2.0T Premium Plus,2015,6,Jennings Chevy / VW,70202,4.5,55,25988
+Audi Q7 3.0T Premium Plus,2017,4,Glenview Luxury Imports,48014,4.7,1045,40999
+Audi A6 2.0T Premium,2012,9,Adam Auto Group,96607,4.5,55,15450
+Audi Q7 3.0T S line Prestige,2014,7,Adam Auto Group,97074,4.8,4,21995
+Audi A5 2.0T Premium Plus quattro,2012,9,Coda Motors,97074,4.3,6,13980
+Audi A5 2.0T Prestige,2018,3,Audi Westmont,49968,4.6,634,40450
+Audi A6 3.0T Prestige quattro,2014,7,Ultimo Motors East,90844,4.5,15,20900
+Audi S8 4.0T Plus,2017,4,Ultimo Motors East,51875,4.6,634,52999
+Audi A7 3.0T Prestige quattro,2013,8,United Auto Exchange,97074,4.5,15,24895
+Audi Q3 2.0T Premium,2018,3,Lombard Toyota,37632,4.5,15,29995
+Audi Q3 2.0T Prestige,2015,6,United Auto Exchange,97074,4.5,15,18885
+Audi Q7 3.0T S line Prestige,2014,7,Star Auto Works,87451,4.6,52,23500
+Audi S5 3.0T Premium Plus quattro,2013,8,Auto's of Chicago,81526,4.6,52,23399
+Audi A8 3.0T quattro,2013,8,Auto's of Chicago,44023,4.8,29,26895
+Audi A6 3.2 quattro,2008,13,Maus Motors,97074,4.6,52,6995
+Audi A8 3.0T quattro,2013,8,Greater Chicago Motors,87431,4.2,116,23995
+Audi A3 1.8T Premium,2016,5,Haus of Imports,97074,4.2,116,13995
+Audi A6 3.0T Premium Plus quattro,2014,7,Haus of Imports,97074,4.6,22,14400
+Audi S7 4.0T quattro,2015,6,Guaranteed Motor Cars,97074,4.6,49,33900
+Audi S5 3.0T Premium Plus quattro,2013,8,Guaranteed Motor Cars,71604,4.7,1943,25900
+Audi A8 L 3.0T,2015,6,Affinity Auto Sales,47674,4.2,5,32995
+Audi Q5 2.0T Premium Plus,2014,7,Guaranteed Motor Cars,70373,4.5,44,21900
+Audi S6 4.0T Prestige,2013,8,Lux Cars Chicago,86559,4.7,636,27945
+Audi TT 2.0T,2008,13,Car City Inc,97074,4.3,1943,12990
+Audi Q7 3.6,2009,12,Car City Inc,84517,4.3,1943,15890
+Audi A4 2.0T Cabriolet quattro,2008,13,"Premium Auto Sales, Inc.",85350,4.3,1943,12900
+Audi A6 3.0T Prestige quattro,2010,11,Excalibur Auto Sales,97074,4.3,1943,11777
+Audi S3 2.0T Premium Plus,2016,5,Mercedes Benz of Hoffman Estates,74911,4.3,1943,26499
+Audi TT RS 2.5T,2018,3,Gold Coast Motors,30998,4.5,55,52999
+Audi Q7 3.0T Premium Plus,2017,4,Audi Hoffman Estates,47285,4.2,71,41980
+Audi A4 2.0T Premium quattro,2012,9,Autosport,80267,4.5,55,13951
+Audi Q5 3.2 Premium Plus,2010,11,Luxury Car Outlet,77418,4.5,55,16995
+Audi A4 Season of Audi Premium,2017,4,Silver Auto Sales Inc.,86785,4.2,55,22494
+Audi A4 2.0T Premium Plus quattro,2014,7,Conway Imports,97074,4.2,55,15995
+Audi A6 2.0T Premium Plus,2016,5,Porsche Downtown Chicago,34949,4.6,322,27402
+Audi A7 3.0T Prestige quattro,2014,7,Carvana-Touchless Delivery To Your Home,28680,4.1,34,37590
+Audi A6 2.0T Premium,2018,3,Carvana-Touchless Delivery To Your Home,59491,4.7,156,28590
+Audi Q7 3.0 TDI Premium,2014,7,Carvana-Touchless Delivery To Your Home,81257,4.7,139,25590
+Audi A6 3.0T Premium Plus quattro,2013,8,Carvana-Touchless Delivery To Your Home,82194,4.2,71,19990
+Audi A4 2.0T Premium Plus quattro,2012,9,United Auto Exchange,97074,4.5,55,13485
+Audi A4 2.0T Prestige,2013,8,Your Choice Auto Sales of Posen,97074,4.5,55,13999
+Audi Q5 Premium Plus,2011,10,United Auto Exchange,97074,4.6,634,13895
+Audi A4 2.0T Premium Plus quattro,2014,7,United Auto Exchange,97074,4.5,67,16895
+Audi Q5 2.0T Premium Plus,2014,7,Auto Showcase of Carol Stream,45577,4.6,52,23995
+Audi TT 3.2 Cabriolet quattro,2008,13,Auto Showcase of Carol Stream,57211,4.1,60,21995
+Audi A8 L 4.2 quattro,2012,9,Highline Auto Sales,47842,4.2,361,27995
+Audi A3 2.0T Premium,2012,9,Rt. 34 Motorsports,91062,4.8,870,9888
+Audi A4 2.0T Premium,2014,7,Luxury Auto Selection,55075,4.8,1,17985
+Audi A5 2.0T Premium Plus,2013,8,Driven Auto Sales,92876,4.5,55,17980
+Audi A4 2.0T Premium Plus,2015,6,Ultimate Motor Cars,74765,4.8,870,18500
+Audi A5 2.0T Premium,2010,11,United Auto Exchange,97074,4.4,473,12995
+Audi S5 3.0T Prestige,2018,3,Greater Chicago Motors,49649,4.6,1074,41995
+Audi S4 3.0T Premium Plus,2014,7,Adam Auto Group,97074,4.7,1943,20885
+Audi A5 2.0T Premium Plus,2013,8,Guaranteed Motor Cars,74437,4.2,55,24900
+Audi S5 4.2 Premium Plus quattro,2011,10,Coda Motors,97074,4.8,630,16990
+Audi Q7 55 Prestige,2019,2,Audi Morton Grove,48335,4.6,634,52999
